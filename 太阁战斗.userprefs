@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/My/Scripts/FightSystem.cs">
+    <Files>
+      <File FileName="Assets/My/Scripts/FightSystem.cs" Line="172" Column="1" />
+      <File FileName="Assets/My/Scripts/Range.cs" Line="1" Column="1" />
+      <File FileName="Assets/My/Scripts/ChangeDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets/My/Scripts/InputCtrl.cs" Line="1" Column="1" />
+      <File FileName="Assets/My/Scripts/TouchSignMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/My/Scripts/EnemyCtrl.cs" Line="110" Column="1" />
+      <File FileName="Assets/My/Scripts/UnitCtrl.cs" Line="38" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
